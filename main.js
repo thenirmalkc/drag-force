@@ -16,7 +16,6 @@ function setup() {
 }
 
 function draw() {
-  frameRate(10)
   background(240)
 
   fill(200)
